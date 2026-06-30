@@ -1,4 +1,4 @@
 # apnaaclgdemo
 this is my first git repo
 <br>
-author - dheeraj borana
+author - dheeraj boranas
